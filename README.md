@@ -1,5 +1,4 @@
 # DAI-Assignment-1
-EDA Analysis
 
 ---
 
@@ -111,15 +110,5 @@ pip install -r requirements.txt
 - Perform **feature engineering** based on insights.  
 - Extend analysis with **multivariate techniques** and **statistical tests**.  
 - Use **machine learning models** for predictive analysis.  
-
----
-
-## **📜 License**
-This project is licensed under the **MIT License**.  
-
----
-
-## **🙌 Acknowledgments**
-Special thanks to the **Open-Source Python Community** for developing powerful data science libraries. 🚀  
 
 ---
